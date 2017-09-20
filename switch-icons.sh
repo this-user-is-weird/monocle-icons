@@ -8,7 +8,7 @@ if [[ ! -d "monocle/static" ]]; then
 fi
 
 if [[ -z "$1" ]]; then
-	URL="https://github.com/Imaginum/monocle-icons.git"
+	URL="https://github.com/ZeChrales/monocle-icons.git"
 else
 	URL="$1"
 fi
